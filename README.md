@@ -26,7 +26,7 @@ New AWS accounts start SES in "sandbox mode" — you can only send email *to* ad
 ## Stack
 
 
-- Python 3.13 + boto3
+- Python 3.12 + boto3
 - Lambda
 - API Gateway
 - SES
