@@ -33,7 +33,6 @@ New AWS accounts start SES in "sandbox mode" — you can only send email *to* ad
 
 ## Where this is going
 
-
 Eventually this replaces the placeholder contact section on my portfolio site — a real working form instead of a dead mailto link.
 
 
